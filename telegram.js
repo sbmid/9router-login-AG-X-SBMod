@@ -236,6 +236,18 @@ bot.action(['run_bot_all', 'run_bot_selected'], async (ctx) => {
   });
 });
 
+const asciiArt = `
+    _    ____     __  __     ____  ____  __  __ 
+   / \\  / ___|    \\ \\/ /    / ___|| __ )|  \\/  |
+  / _ \\| |  _ _____|  |_____\\___ \\|  _ \\| |\\/| |
+ / ___ \\ |_| |_____/  \\_____|___) | |_) | |  | |
+/_/   \\_\\____|    /_/\\_\\    |____/|____/|_|  |_|
+  --- Developer Jenius Pemalas (SBMod) ---
+`;
+
+console.log(asciiArt);
+console.log('Bot Telegram jalan, cuy. Pantau HP lu.');
+
 bot.launch().then(() => {
   console.log('🤖 Telegram bot (Telegraf) jalan. Chat bot lu sekarang.');
 });
