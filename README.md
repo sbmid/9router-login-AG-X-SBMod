@@ -29,11 +29,10 @@ Bot otomatisasi berbasis Puppeteer dan Telegram untuk nambahin akun Google secar
    node telegram.js
    \`\`\`
 2. Buka bot lu di Telegram, ketik \`/menu\` atau \`/start\`.
-3. Tambah daftar email lewat tombol **➕ Tambah Akun** (Bisa *paste* banyak email sekaligus per baris).
-4. Klik **☑️ Pilih Akun & Login** buat milih akun mana aja yang mau di-eksekusi.
+3. Tambah daftar email lewat tombol *➕ Tambah Akun* (Bisa *paste* banyak email sekaligus per baris).
+4. Klik *☑️ Pilih Akun & Login* buat milih akun mana aja yang mau di-eksekusi.
 5. Duduk manis, biarin bot yang kerja keras.
 
----
 *Author: Azrial Galih Prasetyo (Developer Jenius Pemalas)*
 *Instagram: @al.sebirumatahari_*
 *Telegram: @sbmshop*
