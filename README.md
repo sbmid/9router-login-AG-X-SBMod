@@ -1,5 +1,7 @@
 # 9router-login-AG-X-SBMod
 
+![Terminal Logo](terminal.png)
+
 Bot otomatisasi berbasis Puppeteer dan Telegram untuk nambahin akun Google secara otomatis ke dashboard 9Router. Dikembangkan khusus untuk bypass sistem keamanan Google dengan *human-like behavior* (virtual mouse, natural delays).
 
 ## Fitur Utama
