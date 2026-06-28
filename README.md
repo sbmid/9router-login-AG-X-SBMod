@@ -38,6 +38,6 @@ A fully automated, headless integration bridge utilizing Puppeteer and Telegram 
 4. Select target sessions via **Pilih Akun & Login**.
 5. Let the worker execute the queue autonomously.
 
-*Author: Azrial Galih Prasetyo (Developer Jenius Pemalas)*
+*Author: Azrial Galih Prasetyo*
 *Instagram: @al.sebirumatahari_*
 *Telegram: @sbmshop*
